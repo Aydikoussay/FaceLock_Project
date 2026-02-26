@@ -1,0 +1,7 @@
+opencv-python
+mediapipe
+face_recognition
+numpy
+Pillow
+# Note: dlib est requis par face_recognition. 
+# Sur Windows, il peut être nécessaire d'installer CMake et Visual Studio C++ tools.
